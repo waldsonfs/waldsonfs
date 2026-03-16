@@ -1,7 +1,5 @@
 💻 Estudante de programação
 🚀 Focado em Java e Spring Boot
-📚 Aprendendo APIs REST
-
 ---
 
 ## 🚀 Tecnologias
