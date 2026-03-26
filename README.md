@@ -25,8 +25,3 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=waldsonfs\&show_icons=true\&theme=tokyonight)
-
----
